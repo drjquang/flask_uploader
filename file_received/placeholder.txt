@@ -1,0 +1,1 @@
+This file is a placeholder. It is used for nothing except adding the folder file_received to GitHub.
